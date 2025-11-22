@@ -16,7 +16,7 @@ function App() {
     heading1:"Team Celebrations",
     heading2:"On the 25th",
     discription: "Lorem Ipsum is simply dummy printing",
-    end_line:"Read More >"
+    end_line:"Read More "
   }
 
   const card2:ProfileCard ={
@@ -24,7 +24,7 @@ function App() {
     heading1:"Data Security",
     heading2:"Policies",
     discription: "Lorem Ipsum is simply dummy  printing ",
-    end_line:"More Info >"
+    end_line:"More Info "
   }
 
   const card3:ProfileCard ={
@@ -32,7 +32,7 @@ function App() {
     heading1:"Team Gathering",
     heading2:"COLLAB",
     discription: "Lorem Ipsum is simply dummy printing   ",
-    end_line:"JOIN Now >"
+    end_line:"JOIN Now "
   }
   return (
     <>
